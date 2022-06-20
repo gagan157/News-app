@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    :root{
+
+        --nav-text-color : white;
+        --color-nav : #2f4454;
+        --color-nav-mob : #537793;
+        --color-nav-li-hover : #376e6f;
+    
+    }
+}
